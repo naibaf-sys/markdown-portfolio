@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# List
+* programming
+* reading
+* sport
+  * tennis
+
+1. Hello
+2. World
